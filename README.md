@@ -1,1 +1,2 @@
-# bookstore-sangria-play
+## Bookstore - GraphQL/Sangria playground
+
